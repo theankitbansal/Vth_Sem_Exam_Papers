@@ -10,3 +10,9 @@ https://www.youtube.com/watch?v=UXMIxCYZu8o&list=PLEbnTDJUr_IegfoqO4iPnPYQui46Qq
 Cloud computing:
 
 https://www.youtube.com/watch?v=2LaAJq1lB1Q
+
+
+Advance data structure:
+
+https://www.youtube.com/watch?v=8h80p_rYv1Y&list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT
+
