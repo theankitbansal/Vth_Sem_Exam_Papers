@@ -21,3 +21,7 @@ Linux:
 
 https://www.youtube.com/watch?v=v_1zB2WNN14&t=4s
 
+Machine Learning:
+
+https://www.youtube.com/watch?v=mNB8NlwhAgg&list=PLmAmHQ-_5ySyQeEryrlomrEvOGNYN3TAL
+
